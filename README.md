@@ -5,7 +5,7 @@ Hello coders!, I am a passionate Full Stack Engineer from Colombia. I am also an
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Linux, Ruby**
 
-- 📝 I regularly write articles on [https://andres-bpulido.medium.com/](https://andres-bpulido.medium.com/)
+- 📝 I regularly write articles on (https://gustavotovarcabrera.medium.com/my-first-integration-of-an-api-130e957ecdb3)
 
 - 📫 How to reach me **[ASK ME]**
 
