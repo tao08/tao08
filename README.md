@@ -13,10 +13,7 @@ Hello coders!, I am a passionate Full Stack Engineer from Colombia. I am also an
 
 - ⚡ Fun fact **"The only true wisdom is knowing you know nothing"**
 
-## Github Stats 
-![Andres GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTechi-Dev&theme=chartreuse-dark&show_icons=true)
-## Github Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTechi-Dev&layout=compact&hide_border=true&count_private=true&langs_count=20)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
