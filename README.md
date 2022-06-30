@@ -23,6 +23,5 @@ Hello coders!, I am a passionate Full Stack Engineer from Colombia. I am also an
 <p align="left">
 <a href="https://twitter.com/tao_code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codesectest" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/gustavotovarcabrera/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andresbpulido" height="30" width="40" /></a>
-<a href="https://medium.com/@gustavotovarcabrera" target="blank"><img align="center"  height="30" width="40" /></a>
-</p>
+
 
