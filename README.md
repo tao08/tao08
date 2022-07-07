@@ -11,7 +11,7 @@ Hello coders!, I am a passionate Full Stack Engineer from Colombia. I am also an
 
 - 📄 Know about my experiences **[ASK ME]**
 
-- ⚡ Fun fact **"Realizing that my ignorance is the engine of my learning will keep me humble."**
+- ⚡ Fun fact **"Darme cuenta de que mi ignorancia es el motor de mi aprendizaje me mantendrá humilde."**
 
 
 
