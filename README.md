@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Tovar</h1>
 <h3 align="center">A passionate Software Engineer, DevOps, AppSec </h3>
-
-Hello coders!, I am a passionate Full Stack Engineer from Colombia. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing can boost others peoples life!
+           
+Hello coders... Big greetings, I am a junior software developer who is constantly learning and growing. I am always looking to push my skills to the limit and be part of amazing projects that are changing the world.
 
 - 🌱 I’m currently learning **Python,Django **
 
